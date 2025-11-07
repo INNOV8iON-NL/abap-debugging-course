@@ -20,7 +20,7 @@
 
 ```abap
 WHEN 'C'.
-  lv_discount = 3.
+  lv_discount = 3.   ```` ``` ````
 
 ```` ``` ````
 
@@ -30,6 +30,7 @@ WHEN 'C'.
 
 
 16. Inspect the final output.   
+
 
 
 
