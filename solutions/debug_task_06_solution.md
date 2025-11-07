@@ -21,6 +21,7 @@
 ```abap
 WHEN 'C'.
   lv_discount = 3.
+
 ```markdown
 
 13. Click **Activate** or press **CTRL + F3**, then click on **Display/Change**, or press **CTRL + F1**. The screen should turn blue again.  
@@ -29,4 +30,5 @@ WHEN 'C'.
 
 
 16. Inspect the final output.   
+
 
