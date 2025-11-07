@@ -25,8 +25,10 @@
 ![alt text](solution_images/Afbeelding62.png)
 
 **OR**
+
 ![alt text](solution_images/Afbeelding63.png)
 
 10. Click **Activate** or press **CTRL + F3**.  
 11. Make sure you still have a debugger point set on **line 6**, then run the debugger again.  
 12. Inspect the flow of the IF statement again and examine the final output.  
+
