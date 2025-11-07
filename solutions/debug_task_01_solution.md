@@ -5,7 +5,7 @@ There’s no bug in this task.
 ## Steps
 
 1. In **SAP GUI** transaction `SE38`, enter `z_debug_01`, and click **Display**.  
-![alt text](solution images/Afbeelding1.png)
+![alt text](/solution images/Afbeelding1.png)
 2. Run the program by clicking **Direct Processing** or by pressing **F8**. 
  ![alt text](Afbeelding2.png)
 3. Examine the output.  
