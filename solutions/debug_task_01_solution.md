@@ -10,22 +10,22 @@ There’s no bug in this task.
 2. Run the program by clicking **Direct Processing** or by pressing **F8**.
 ![alt text](solution_images/Afbeelding2.png)
 
-4. Examine the output.  
+3. Examine the output.  
 ![alt text](solution_images/Afbeelding3.png)
 
-6. Go back by clicking **Back** or pressing **F3**.  
+4. Go back by clicking **Back** or pressing **F3**.  
 ![alt text](solution_images/Afbeelding4.png)
 
-8. Put a breakpoint on **line 7** and run the program again.
+5. Put a breakpoint on **line 7** and run the program again.
 
 ![alt text](solution_images/Afbeelding5.png)
 
-10. Once the program runs in debugger mode, it stops at line 7.  
+6. Once the program runs in debugger mode, it stops at line 7.  
    - Double-click on `lv_a`, `lv_b`, and `lv_sum` to see the values of each variable.  
 ![alt text](solution_images/Afbeelding6.png)
 
-11. Press **Single Step** or **F5** once. Examine how the value for `lv_sum` changes.  
+7. Press **Single Step** or **F5** once. Examine how the value for `lv_sum` changes.  
 ![alt text](solution_images/Afbeelding7.png)
 
-13. Press **Continue** or **F8** again so the program executes.  
+8. Press **Continue** or **F8** again so the program executes.  
 ![alt text](solution_images/Afbeelding8.png)
