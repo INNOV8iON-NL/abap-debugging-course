@@ -21,6 +21,7 @@
 ```abap
 WHEN 'C'.
   lv_discount = 3.
+
 ---
 ```markdown
 
@@ -30,6 +31,7 @@ WHEN 'C'.
 
 
 16. Inspect the final output.   
+
 
 
 
