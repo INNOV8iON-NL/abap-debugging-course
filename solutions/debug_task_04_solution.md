@@ -9,7 +9,7 @@
 ![alt text](solution_images/Afbeelding34.png)
 
 4. Go back to the report (press **Back** or **F3**).  
-5. Put a breakpoint on **line 10**, and run the report by clicking **Direct Processing** or pressing **F8**. 
+5. Put a breakpoint on **line 11**, and run the report by clicking **Direct Processing** or pressing **F8**. 
 
 ![alt text](solution_images/Afbeelding35.png)
 
@@ -44,3 +44,4 @@
 15. Click `Direct processing` or press `F8`. Examine the output.
 
 ![alt text](solution_images/Afbeelding42.png)
+
