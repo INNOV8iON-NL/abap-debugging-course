@@ -21,7 +21,7 @@
 ```abap
 WHEN 'C'.
   lv_discount = 3.
-```abap
+```markdown
 
 13. Click **Activate** or press **CTRL + F3**, then click on **Display/Change**, or press **CTRL + F1**. The screen should turn blue again.  
 14. Make sure you have a debugger point on **line 12**, and run the program again (**Direct Processing** or **F8**).  
@@ -29,3 +29,4 @@ WHEN 'C'.
 
 
 16. Inspect the final output.   
+
