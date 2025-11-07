@@ -16,7 +16,8 @@ There’s no bug in this task.
 6. Go back by clicking **Back** or pressing **F3**.  
 ![alt text](solution_images/Afbeelding4.png)
 
-8. Put a breakpoint on **line 7** and run the program again. 
+8. Put a breakpoint on **line 7** and run the program again.
+
 ![alt text](solution_images/Afbeelding5.png)
 
 10. Once the program runs in debugger mode, it stops at line 7.  
