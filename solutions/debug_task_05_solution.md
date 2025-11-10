@@ -1,8 +1,10 @@
 # Debug Task 05
 
+Add your own user number after the report name instead of XZ. For example, ‘Z_DEBUG_05_USER01’.
+
 ## Steps
 
-1. In **SAP GUI** transaction `SE38`, enter `z_debug_05`, and click **Display**.  
+1. In **SAP GUI** transaction `SE38`, enter `Z_DEBUG_05_USERXZ`, and click **Display**.  
 2. Run the program by clicking **Direct Processing** or by pressing **F8**.  
 3. Examine the output.  
 
@@ -44,3 +46,4 @@
 16. Examine the output.  
 
 ![alt text](solution_images/Afbeelding52.png)
+
