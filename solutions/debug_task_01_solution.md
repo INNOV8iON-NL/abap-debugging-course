@@ -27,11 +27,11 @@ There’s no bug in this task.
 6. Once the program runs in debugger mode, it stops at line 7.  
    - Double-click on `lv_a`, `lv_b`, and `lv_sum` to see the values of each variable.
      
-![alt text](solution_images/Afbeelding6.png)
+![alt text](solution_images/Afbeelding7.png)
 
 7. Press **Single Step** or **F5** once. Examine how the value for `lv_sum` changes.
    
-![alt text](solution_images/Afbeelding7.png)
+![alt text](solution_images/Afbeelding6.png)
 
 8. Press **Continue** or **F8** again so the program executes.
     
