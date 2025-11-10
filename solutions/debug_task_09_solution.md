@@ -4,7 +4,7 @@ Add your own user number after the report name instead of XZ. For example, ‘Z_
 
 ## Steps
 
-1. In **SAP GUI** transaction `SE38`, enter `Z_DEBUG_09_USERXZ’`, and click **Display**.  
+1. In **SAP GUI** transaction `SE38`, enter `Z_DEBUG_09_USERXZ`, and click **Display**.  
 2. Run the program by clicking **Direct Processing** or by pressing **F8**.  
 3. Examine the output.  
 
@@ -23,4 +23,5 @@ Add your own user number after the report name instead of XZ. For example, ‘Z_
  ![alt text](solution_images/Afbeelding81.png)  
 
 7. The material number on **line 13** is skipped because it satisfies the condition for the **IF** statement (`SY-TABIX = lv_matindex`), and the material number for that row is cleared.  
+
 
