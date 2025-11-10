@@ -4,7 +4,7 @@ There’s no bug in this task. Add your own user number after the report name in
 
 ## Steps
 
-1. In **SAP GUI** transaction `SE38`, enter `Z_DEBUG_01_USERXZ’`, and click **Display**.
+1. In **SAP GUI** transaction `SE38`, enter `Z_DEBUG_01_USERXZ`, and click **Display**.
     
 ![alt text](solution_images/Afbeelding1.png)
 
