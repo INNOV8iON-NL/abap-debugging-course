@@ -1,10 +1,10 @@
 # Debug Task 02
 
-There’s no bug in this task.
+There’s no bug in this task. Add your own user number after the report name instead of XZ. For example, ‘Z_DEBUG_02_USER01’.
 
 ## Steps
 
-1. In **SAP GUI** transaction `SE38`, enter `z_debug_02`, and click **Display**.  
+1. In **SAP GUI** transaction `SE38`, enter `Z_DEBUG_02_USERXZ`, and click **Display**.  
 2. Run the program by clicking **Direct Processing** or by pressing **F8**.  
 3. Examine the output.  
 4. Go back by clicking **Back** or pressing **F3**.  
