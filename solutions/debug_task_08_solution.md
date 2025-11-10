@@ -1,10 +1,10 @@
 # Debug Task 08
 
-This task doesn’t have a bug. Its aim is to practice setting **watchpoints**.
+This task doesn’t have a bug. Its aim is to practice setting **watchpoints**. Add your own user number after the report name instead of XZ. For example, ‘Z_DEBUG_08_USER01’.
 
 ## Steps
 
-1. In **SAP GUI** transaction `SE38`, enter `z_debug_07`, and click **Display**.  
+1. In **SAP GUI** transaction `SE38`, enter `Z_DEBUG_08_USERXZ`, and click **Display**.  
 2. Run the program by clicking **Direct Processing** or by pressing **F8**.  
 3. Examine the output.  
 4. Go back to the report. Set a debugger point on **line 49**. Start the debugging process (**Direct Processing** / **F8**). 
@@ -58,3 +58,4 @@ This task doesn’t have a bug. Its aim is to practice setting **watchpoints**.
 
   ![alt text](solution_images/Afbeelding77.png)
   ![alt text](solution_images/Afbeelding78.png)
+
