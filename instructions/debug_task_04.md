@@ -4,7 +4,7 @@ Add your own user number after the report name instead of XZ. For example, ‘Z_
 
 ## Steps
 
-1. In **SAP GUI** transaction `SE38`, enter `Z_DEBUG_04_USERXZ’`, and click **Display**.  
+1. In **SAP GUI** transaction `SE38`, enter `Z_DEBUG_04_USERXZ`, and click **Display**.  
 2. Run the program by clicking **Direct Processing** or by pressing **F8**.  
 3. Examine the output.  
 4. Go back to the report (press **Back** or **F3**).  
@@ -14,4 +14,5 @@ Add your own user number after the report name instead of XZ. For example, ‘Z_
 8. Click **Execute** or press **F8** so the report is processed.  
 
 9. Check file **Debugging Solutions**.  
+
 
