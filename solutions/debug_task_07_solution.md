@@ -1,8 +1,10 @@
 # Debug Task 07
 
+Add your own user number after the report name instead of XZ. For example, ‘Z_DEBUG_07_USER01’.
+
 ## Steps
 
-1. In **SAP GUI** transaction `SE38`, enter `z_debug_07`, and click **Display**.  
+1. In **SAP GUI** transaction `SE38`, enter `Z_DEBUG_07_USERXZ`, and click **Display**.  
 2. Take some time to observe the report to understand the expected outcome. Run the program by clicking **Direct Processing** or by pressing **F8**.  
 3. Examine the output.  
 
@@ -31,4 +33,5 @@
 10. Click **Activate** or press **CTRL + F3**.  
 11. Make sure you still have a debugger point set on **line 6**, then run the debugger again.  
 12. Inspect the flow of the IF statement again and examine the final output.  
+
 
