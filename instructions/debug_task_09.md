@@ -1,8 +1,10 @@
 # Debug Task 09
 
+Add your own user number after the report name instead of XZ. For example, ‘Z_DEBUG_09_USER01’.
+
 ## Steps
 
-1. In **SAP GUI** transaction `SE38`, enter `z_debug_09`, and click **Display**.  
+1. In **SAP GUI** transaction `SE38`, enter `Z_DEBUG_09_USERXZ`, and click **Display**.  
 2. Run the program by clicking **Direct Processing** or by pressing **F8**.  
 3. Examine the output.  
 4. Go back to the report. Set a debugger point on **line 10**, and start **Direct Processing** / **F8**.  
@@ -19,4 +21,5 @@
    You can set a watchpoint to show up when the watched variable is empty by typing `= ''` in the **Free Condition Entry**. Make sure to include a space after the `=` sign to avoid an error in the condition.
    </details>
 7. Determine why there is one line where the material number is skipped.  
+
 8. Check file **Debugging Solutions**.  
